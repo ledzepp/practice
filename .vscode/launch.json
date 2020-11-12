@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Recursion",
+            "request": "launch",
+            "mainClass": "com.learn.arrays.Recursion",
+            "projectName": "practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<java_a2b495ae>",
+            "request": "launch",
+            "mainClass": "com.learn.App",
+            "projectName": "java_a2b495ae"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpiderMove<java_a2b495ae>",
+            "request": "launch",
+            "mainClass": "com.learn.solutions.SpiderMove",
+            "projectName": "java_a2b495ae"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<practice_6469cf30>",
+            "request": "launch",
+            "mainClass": "com.learn.App",
+            "projectName": "practice_6469cf30"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpiderMove<practice_6469cf30>",
+            "request": "launch",
+            "mainClass": "com.learn.solutions.SpiderMove",
+            "projectName": "practice_6469cf30"
+        }
+    ]
+}
